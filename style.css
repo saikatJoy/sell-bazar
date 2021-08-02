@@ -1,0 +1,38 @@
+.container{
+    margin-bottom: 20px;
+}
+
+.container-1 h4{
+    margin-top: 80px;
+    
+}
+.container-1{
+    margin-top: 90px;
+}
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    padding: 9px 25px;
+}
+.p-clr{
+    font-size: small;
+    color: gray;
+}
+.titil h6{
+    color: darkgoldenrod;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.col-md-6 img{
+    width:80%;
+}
+.Categoeies{
+    margin-top: 80px;
+    display: inline-block;
+}
